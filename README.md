@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋 I'm Emine Nur</h1>
 <h3 align="center">A senior-year computer engineering student at Eskişehir Technical University</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eminenurguclu" alt="eminenurguclu" /></a> </p>
-
 - 🌱 I’m currently learning **Kotlin**
 
 - 📫 How to reach me **eminenurguclu@ieee.org**
